@@ -1,0 +1,692 @@
+	refseq.id	label	train_date	train_virus	host_label	Genus	virus_ID	Family	database	Species
+17592	NC_054003	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_054003	Coronaviridae	GenBank	Alphacoronavirus sp.
+17593	NC_054004	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_054004	Coronaviridae	GenBank	Alphacoronavirus CHB25
+17594	NC_076684	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_076684	Coronaviridae	GenBank	Alphacoronavirus sp.
+17595	NC_076685	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_076685	Coronaviridae	GenBank	Alphacoronavirus sp.
+17596	NC_048217	0	20240206	Coronaviridae	0.0	Betacoronavirus	NC_048217	Coronaviridae	GenBank	Murine coronavirus
+17597	NC_006213	0	20240206	Coronaviridae	1.0	Betacoronavirus	NC_006213	Coronaviridae	VHDB	Betacoronavirus 1
+17598	NC_006213	0	20240206	Coronaviridae	0.0	Betacoronavirus	NC_006213	Coronaviridae	GenBank	Betacoronavirus 1
+17599	NC_038861	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_038861	Coronaviridae	VHDB	Alphacoronavirus 1
+17600	NC_038861	0	20240206	Coronaviridae	0.0	Alphacoronavirus	NC_038861	Coronaviridae	GenBank	Alphacoronavirus 1
+17601	OP959790	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP959790	Coronaviridae	GenBank	Betacoronavirus 1
+17602	OQ915150	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ915150	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17603	OP823402	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OP823402	Coronaviridae	GenBank	Avian coronavirus
+17604	OP529823	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP529823	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17605	OP529824	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP529824	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17606	OQ920097	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ920097	Coronaviridae	GenBank	Human coronavirus 229E
+17607	OQ920098	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ920098	Coronaviridae	GenBank	Human coronavirus 229E
+17608	OQ920099	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ920099	Coronaviridae	GenBank	Human coronavirus 229E
+17609	OQ920100	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ920100	Coronaviridae	GenBank	Human coronavirus 229E
+17610	OQ920101	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ920101	Coronaviridae	GenBank	Human coronavirus 229E
+17611	OP805351	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP805351	Coronaviridae	GenBank	Alphacoronavirus 1
+17612	OK017907	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OK017907	Coronaviridae	GenBank	Alphacoronavirus sp.
+17613	OK017908	0	20240206	Coronaviridae	0.0	Betacoronavirus	OK017908	Coronaviridae	GenBank	Betacoronavirus sp.
+17614	OQ469322	0	20240206	Coronaviridae	0.0		OQ469322	Coronaviridae	GenBank	Hipposideros armiger Coronavirus
+17615	ON544072	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON544072	Coronaviridae	GenBank	Betacoronavirus 1
+17616	OP684009	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OP684009	Coronaviridae	GenBank	Avian coronavirus
+17617	OQ378935	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ378935	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17618	OP287015	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP287015	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17619	OP894120	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP894120	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17620	OQ703966	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ703966	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17621	OQ718861	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ718861	Coronaviridae	GenBank	Betacoronavirus 1
+17622	OQ736716	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ736716	Coronaviridae	GenBank	Coronavirus HKU15
+17623	OQ736717	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ736717	Coronaviridae	GenBank	Coronavirus HKU15
+17624	OP381188	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OP381188	Coronaviridae	GenBank	Avian coronavirus
+17625	OQ786859	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ786859	Coronaviridae	GenBank	Merbecovirus sp.
+17626	OQ786860	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ786860	Coronaviridae	GenBank	Merbecovirus sp.
+17627	OQ786861	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ786861	Coronaviridae	GenBank	Merbecovirus sp.
+17628	OQ786862	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ786862	Coronaviridae	GenBank	Merbecovirus sp.
+17629	OP326239	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP326239	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17630	OP480878	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP480878	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17631	OP688373	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP688373	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17632	OP972835	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP972835	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17633	OQ349200	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ349200	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17634	OQ349201	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ349201	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17635	OQ349202	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ349202	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17636	OQ589489	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ589489	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17637	OQ725698	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OQ725698	Coronaviridae	GenBank	Avian coronavirus
+17638	OQ731917	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ731917	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17639	OQ731918	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ731918	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17640	OP382083	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP382083	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17641	ON960077	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON960077	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17642	ON964511	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON964511	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17643	OQ541850	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ541850	Coronaviridae	GenBank	Betacoronavirus 1
+17644	OQ566226	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ566226	Coronaviridae	GenBank	Coronavirus HKU15
+17645	OQ566227	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ566227	Coronaviridae	GenBank	Coronavirus HKU15
+17646	OQ621715	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621715	Coronaviridae	GenBank	Betacoronavirus 1
+17647	OQ621716	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621716	Coronaviridae	GenBank	Betacoronavirus 1
+17648	OQ621717	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621717	Coronaviridae	GenBank	Betacoronavirus 1
+17649	OQ621719	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621719	Coronaviridae	GenBank	Betacoronavirus 1
+17650	OQ621720	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621720	Coronaviridae	GenBank	Betacoronavirus 1
+17651	OQ621721	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621721	Coronaviridae	GenBank	Betacoronavirus 1
+17652	OQ621724	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621724	Coronaviridae	GenBank	Betacoronavirus 1
+17653	OQ621725	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621725	Coronaviridae	GenBank	Betacoronavirus 1
+17654	OQ621726	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621726	Coronaviridae	GenBank	Betacoronavirus 1
+17655	OQ621727	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ621727	Coronaviridae	GenBank	Betacoronavirus 1
+17656	OQ547740	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ547740	Coronaviridae	GenBank	Coronavirus HKU15
+17657	OQ551110	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ551110	Coronaviridae	GenBank	Coronavirus HKU15
+17658	ON858825	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON858825	Coronaviridae	GenBank	Alphacoronavirus 1
+17659	OP933726	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP933726	Coronaviridae	GenBank	Ferret coronavirus
+17660	OQ401247	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ401247	Coronaviridae	GenBank	Sarbecovirus sp. RfGB01
+17661	OQ401248	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ401248	Coronaviridae	GenBank	Sarbecovirus sp. RhGB07
+17662	OQ401249	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ401249	Coronaviridae	GenBank	Sarbecovirus sp. RfGB02
+17663	OQ401250	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ401250	Coronaviridae	GenBank	Pedacovirus sp. MdGB01
+17664	OQ401253	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ401253	Coronaviridae	GenBank	Pedacovirus sp. PpiGB01
+17665	OQ401254	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ401254	Coronaviridae	GenBank	Pedacovirus sp. MdGB02
+17666	OQ401255	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OQ401255	Coronaviridae	GenBank	Pedacovirus sp. MdGB03
+17667	LC756668	1	20240206	Coronaviridae	1.0	Alphacoronavirus	LC756668	Coronaviridae	GenBank	Human coronavirus NL63
+17668	LC756669	1	20240206	Coronaviridae	1.0	Betacoronavirus	LC756669	Coronaviridae	GenBank	Betacoronavirus 1
+17669	LC756670	1	20240206	Coronaviridae	1.0	Betacoronavirus	LC756670	Coronaviridae	GenBank	Betacoronavirus 1
+17670	OQ405399	0	20240206	Coronaviridae	0.0	Betacoronavirus	OQ405399	Coronaviridae	GenBank	Betacoronavirus sp.
+17671	ON571549	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON571549	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17672	MZ221192	1	20240206	Coronaviridae	1.0	Betacoronavirus	MZ221192	Coronaviridae	GenBank	Betacoronavirus 1
+17673	OQ331224	1	20240206	Coronaviridae	1.0	Betacoronavirus	OQ331224	Coronaviridae	GenBank	Betacoronavirus 1
+17674	OP004056	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP004056	Coronaviridae	GenBank	Betacoronavirus 1
+17675	OP776338	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP776338	Coronaviridae	GenBank	Sarbecovirus sp.
+17676	OP776339	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP776339	Coronaviridae	GenBank	Sarbecovirus sp.
+17677	OP776340	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP776340	Coronaviridae	GenBank	Sarbecovirus sp.
+17678	ON260865	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON260865	Coronaviridae	GenBank	Avian coronavirus
+17679	ON260866	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON260866	Coronaviridae	GenBank	Avian coronavirus
+17680	OP866285	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866285	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17681	OP866286	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866286	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17682	OP866287	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866287	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17683	OP866288	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866288	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17684	OP866289	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866289	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17685	OP866290	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866290	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17686	OP866291	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866291	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17687	OP866292	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866292	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17688	OP866294	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866294	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17689	ON081486	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081486	Coronaviridae	GenBank	Avian coronavirus
+17690	ON081487	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081487	Coronaviridae	GenBank	Avian coronavirus
+17691	ON081488	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081488	Coronaviridae	GenBank	Avian coronavirus
+17692	ON081489	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081489	Coronaviridae	GenBank	Avian coronavirus
+17693	ON081492	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081492	Coronaviridae	GenBank	Avian coronavirus
+17694	ON081493	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081493	Coronaviridae	GenBank	Avian coronavirus
+17695	ON081494	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081494	Coronaviridae	GenBank	Avian coronavirus
+17696	ON016092	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON016092	Coronaviridae	GenBank	Alphacoronavirus 1
+17697	ON081495	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON081495	Coronaviridae	GenBank	Avian coronavirus
+17698	ON036184	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON036184	Coronaviridae	GenBank	Avian coronavirus
+17699	ON036185	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON036185	Coronaviridae	GenBank	Avian coronavirus
+17700	ON044997	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON044997	Coronaviridae	GenBank	Avian coronavirus
+17701	ON044998	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON044998	Coronaviridae	GenBank	Avian coronavirus
+17702	OM988131	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988131	Coronaviridae	GenBank	Avian coronavirus
+17703	OM988132	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988132	Coronaviridae	GenBank	Avian coronavirus
+17704	OM988133	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988133	Coronaviridae	GenBank	Avian coronavirus
+17705	OM988135	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988135	Coronaviridae	GenBank	Avian coronavirus
+17706	OM988136	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988136	Coronaviridae	GenBank	Avian coronavirus
+17707	OM988139	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988139	Coronaviridae	GenBank	Avian coronavirus
+17708	OM988140	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988140	Coronaviridae	GenBank	Avian coronavirus
+17709	OM988141	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988141	Coronaviridae	GenBank	Avian coronavirus
+17710	OM988142	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988142	Coronaviridae	GenBank	Avian coronavirus
+17711	OM988143	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988143	Coronaviridae	GenBank	Avian coronavirus
+17712	OM988144	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988144	Coronaviridae	GenBank	Avian coronavirus
+17713	OM988145	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988145	Coronaviridae	GenBank	Avian coronavirus
+17714	OM988147	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988147	Coronaviridae	GenBank	Avian coronavirus
+17715	OM988154	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988154	Coronaviridae	GenBank	Avian coronavirus
+17716	OM988155	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988155	Coronaviridae	GenBank	Avian coronavirus
+17717	OM988157	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988157	Coronaviridae	GenBank	Avian coronavirus
+17718	OM988158	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM988158	Coronaviridae	GenBank	Avian coronavirus
+17719	OQ102159	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OQ102159	Coronaviridae	GenBank	Deltacoronavirus sp.
+17720	OM937935	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937935	Coronaviridae	GenBank	Avian coronavirus
+17721	OM937936	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937936	Coronaviridae	GenBank	Avian coronavirus
+17722	OM937937	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937937	Coronaviridae	GenBank	Avian coronavirus
+17723	OM937938	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937938	Coronaviridae	GenBank	Avian coronavirus
+17724	OM937939	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937939	Coronaviridae	GenBank	Avian coronavirus
+17725	OM937940	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937940	Coronaviridae	GenBank	Avian coronavirus
+17726	OM937941	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937941	Coronaviridae	GenBank	Avian coronavirus
+17727	OM937942	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937942	Coronaviridae	GenBank	Avian coronavirus
+17728	OM937943	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937943	Coronaviridae	GenBank	Avian coronavirus
+17729	OM937944	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM937944	Coronaviridae	GenBank	Avian coronavirus
+17730	OM953425	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM953425	Coronaviridae	GenBank	Avian coronavirus
+17731	OM386794	1	20240206	Coronaviridae	1.0	Betacoronavirus	OM386794	Coronaviridae	GenBank	Betacoronavirus 1
+17732	OM386795	1	20240206	Coronaviridae	1.0	Betacoronavirus	OM386795	Coronaviridae	GenBank	Betacoronavirus 1
+17733	OM386796	1	20240206	Coronaviridae	1.0	Betacoronavirus	OM386796	Coronaviridae	GenBank	Betacoronavirus 1
+17734	OM386799	1	20240206	Coronaviridae	1.0	Betacoronavirus	OM386799	Coronaviridae	GenBank	Betacoronavirus 1
+17735	OM714830	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM714830	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17736	OM776958	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM776958	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17737	OM505025	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM505025	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17738	OP924545	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP924545	Coronaviridae	GenBank	Betacoronavirus 1
+17739	LC663496	0	20240206	Coronaviridae	0.0	Gammacoronavirus	LC663496	Coronaviridae	GenBank	Avian coronavirus
+17740	OL348059	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL348059	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17741	OM397541	0	20240206	Coronaviridae	0.0	Betacoronavirus	OM397541	Coronaviridae	GenBank	Betacoronavirus 1
+17742	ON595862	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595862	Coronaviridae	GenBank	Alphacoronavirus 1
+17743	ON595866	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595866	Coronaviridae	GenBank	Alphacoronavirus 1
+17744	ON595867	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595867	Coronaviridae	GenBank	Alphacoronavirus 1
+17745	ON595868	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595868	Coronaviridae	GenBank	Alphacoronavirus 1
+17746	ON595869	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595869	Coronaviridae	GenBank	Alphacoronavirus 1
+17747	ON595871	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON595871	Coronaviridae	GenBank	Alphacoronavirus 1
+17748	OP866726	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866726	Coronaviridae	GenBank	Betacoronavirus 1
+17749	OP866727	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866727	Coronaviridae	GenBank	Betacoronavirus 1
+17750	OP866728	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866728	Coronaviridae	GenBank	Betacoronavirus 1
+17751	OP866729	0	20240206	Coronaviridae	0.0	Betacoronavirus	OP866729	Coronaviridae	GenBank	Betacoronavirus 1
+17752	OK491634	0	20240206	Coronaviridae	0.0	Betacoronavirus	OK491634	Coronaviridae	GenBank	Murine coronavirus
+17753	OM047182	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OM047182	Coronaviridae	GenBank	Coronavirus HKU15
+17754	ON951674	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON951674	Coronaviridae	GenBank	Avian coronavirus
+17755	ON951675	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON951675	Coronaviridae	GenBank	Avian coronavirus
+17756	ON951676	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON951676	Coronaviridae	GenBank	Avian coronavirus
+17757	ON951677	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON951677	Coronaviridae	GenBank	Avian coronavirus
+17758	OL704806	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL704806	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17759	ON911569	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON911569	Coronaviridae	GenBank	Swine acute diarrhea syndrome coronavirus
+17760	OK507216	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OK507216	Coronaviridae	GenBank	Avian coronavirus
+17761	OL347994	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL347994	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17762	MZ977202	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ977202	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17763	MZ787936	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ787936	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17764	MZ787937	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ787937	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17765	MZ712170	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ712170	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17766	OK073077	1	20240206	Coronaviridae	1.0	Alphacoronavirus	OK073077	Coronaviridae	GenBank	Human coronavirus 229E
+17767	OK073079	1	20240206	Coronaviridae	1.0	Alphacoronavirus	OK073079	Coronaviridae	GenBank	Human coronavirus 229E
+17768	OK073082	1	20240206	Coronaviridae	1.0	Alphacoronavirus	OK073082	Coronaviridae	GenBank	Human coronavirus 229E
+17769	MZ540767	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ540767	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17770	MZ364313	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ364313	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17771	MZ364314	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ364314	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17772	MZ364315	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ364315	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17773	MZ364316	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ364316	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17774	MZ456995	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MZ456995	Coronaviridae	GenBank	Avian coronavirus
+17775	OM525799	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM525799	Coronaviridae	GenBank	Avian coronavirus
+17776	OK423446	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OK423446	Coronaviridae	GenBank	Avian coronavirus
+17777	OK423447	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OK423447	Coronaviridae	GenBank	Avian coronavirus
+17778	MZ322950	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ322950	Coronaviridae	GenBank	Alphacoronavirus 1
+17779	LC706863	0	20240206	Coronaviridae	0.0	Betacoronavirus	LC706863	Coronaviridae	GenBank	Merbecovirus sp.
+17780	MZ241108	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ241108	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17781	ON872523	0	20240206	Coronaviridae	0.0		ON872523	Coronaviridae	GenBank	Bat faecal coronavirus
+17782	ON859973	0	20240206	Coronaviridae	0.0	Deltacoronavirus	ON859973	Coronaviridae	GenBank	Coronavirus HKU15
+17783	ON859974	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON859974	Coronaviridae	GenBank	Alphacoronavirus 1
+17784	LC663793	0	20240206	Coronaviridae	0.0	Betacoronavirus	LC663793	Coronaviridae	GenBank	Sarbecovirus sp.
+17785	MZ320953	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ320953	Coronaviridae	GenBank	Alphacoronavirus 1
+17786	MZ320954	0	20240206	Coronaviridae	0.0	Alphacoronavirus	MZ320954	Coronaviridae	GenBank	Alphacoronavirus 1
+17787	OK094448	0	20240206	Coronaviridae	0.0	Betacoronavirus	OK094448	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17788	MZ268404	0	20240206	Coronaviridae	0.0	Betacoronavirus	MZ268404	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17789	MZ268405	0	20240206	Coronaviridae	0.0	Betacoronavirus	MZ268405	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17790	OK584017	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OK584017	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17791	OL446966	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL446966	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17792	OL446967	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL446967	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17793	ON142315	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142315	Coronaviridae	GenBank	Betacoronavirus 1
+17794	ON142316	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142316	Coronaviridae	GenBank	Betacoronavirus 1
+17795	ON142317	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142317	Coronaviridae	GenBank	Betacoronavirus 1
+17796	ON142318	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142318	Coronaviridae	GenBank	Betacoronavirus 1
+17797	ON142319	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142319	Coronaviridae	GenBank	Betacoronavirus 1
+17798	ON142320	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON142320	Coronaviridae	GenBank	Betacoronavirus 1
+17799	ON382562	0	20240206	Coronaviridae	0.0	Deltacoronavirus	ON382562	Coronaviridae	GenBank	Coronavirus HKU15
+17800	ON402372	0	20240206	Coronaviridae	0.0	Deltacoronavirus	ON402372	Coronaviridae	GenBank	Coronavirus HKU15
+17801	ON453891	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON453891	Coronaviridae	GenBank	Betacoronavirus 1
+17802	OK287352	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OK287352	Coronaviridae	GenBank	Alphacoronavirus sp.
+17803	OK287353	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OK287353	Coronaviridae	GenBank	Alphacoronavirus sp.
+17804	OK287354	0	20240206	Coronaviridae	0.0	Betacoronavirus	OK287354	Coronaviridae	GenBank	Sarbecovirus sp.
+17805	OK287355	0	20240206	Coronaviridae	0.0	Betacoronavirus	OK287355	Coronaviridae	GenBank	Sarbecovirus sp.
+17806	OM914738	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM914738	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17807	ON968723	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON968723	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17808	ON968724	0	20240206	Coronaviridae	0.0	Deltacoronavirus	ON968724	Coronaviridae	GenBank	Coronavirus HKU15
+17809	OP179857	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OP179857	Coronaviridae	GenBank	Alphacoronavirus 1
+17810	ON494594	0	20240206	Coronaviridae	0.0	Deltacoronavirus	ON494594	Coronaviridae	GenBank	Coronavirus HKU15
+17811	MW732689	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MW732689	Coronaviridae	GenBank	Avian coronavirus
+17812	LC720427	1	20240206	Coronaviridae	1.0	Betacoronavirus	LC720427	Coronaviridae	GenBank	Betacoronavirus 1
+17813	LC720428	1	20240206	Coronaviridae	1.0	Alphacoronavirus	LC720428	Coronaviridae	GenBank	Human coronavirus NL63
+17814	LC720429	1	20240206	Coronaviridae	1.0	Betacoronavirus	LC720429	Coronaviridae	GenBank	Betacoronavirus 1
+17815	MH700627	0	20240206	Coronaviridae	0.0	Deltacoronavirus	MH700627	Coronaviridae	GenBank	Coronavirus HKU15
+17816	MH700628	0	20240206	Coronaviridae	0.0	Deltacoronavirus	MH700628	Coronaviridae	GenBank	Coronavirus HKU15
+17817	MH700629	0	20240206	Coronaviridae	0.0	Deltacoronavirus	MH700629	Coronaviridae	GenBank	Coronavirus HKU15
+17818	MW791835	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MW791835	Coronaviridae	GenBank	Avian coronavirus
+17819	ON792941	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792941	Coronaviridae	GenBank	Betacoronavirus 1
+17820	ON792942	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792942	Coronaviridae	GenBank	Betacoronavirus 1
+17821	ON792943	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792943	Coronaviridae	GenBank	Betacoronavirus 1
+17822	ON792944	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792944	Coronaviridae	GenBank	Betacoronavirus 1
+17823	ON792945	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792945	Coronaviridae	GenBank	Betacoronavirus 1
+17824	ON792946	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792946	Coronaviridae	GenBank	Betacoronavirus 1
+17825	ON792947	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792947	Coronaviridae	GenBank	Betacoronavirus 1
+17826	ON792948	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792948	Coronaviridae	GenBank	Betacoronavirus 1
+17827	ON792949	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792949	Coronaviridae	GenBank	Betacoronavirus 1
+17828	ON792950	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792950	Coronaviridae	GenBank	Betacoronavirus 1
+17829	ON792951	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792951	Coronaviridae	GenBank	Betacoronavirus 1
+17830	ON792952	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792952	Coronaviridae	GenBank	Betacoronavirus 1
+17831	ON792953	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792953	Coronaviridae	GenBank	Betacoronavirus 1
+17832	ON792954	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792954	Coronaviridae	GenBank	Betacoronavirus 1
+17833	ON792955	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792955	Coronaviridae	GenBank	Betacoronavirus 1
+17834	ON792956	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792956	Coronaviridae	GenBank	Betacoronavirus 1
+17835	ON792957	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792957	Coronaviridae	GenBank	Betacoronavirus 1
+17836	ON792958	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792958	Coronaviridae	GenBank	Betacoronavirus 1
+17837	ON792959	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792959	Coronaviridae	GenBank	Betacoronavirus 1
+17838	ON792960	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792960	Coronaviridae	GenBank	Betacoronavirus 1
+17839	ON792961	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792961	Coronaviridae	GenBank	Betacoronavirus 1
+17840	ON792962	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792962	Coronaviridae	GenBank	Betacoronavirus 1
+17841	ON792963	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792963	Coronaviridae	GenBank	Betacoronavirus 1
+17842	ON792964	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON792964	Coronaviridae	GenBank	Betacoronavirus 1
+17843	ON376724	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON376724	Coronaviridae	GenBank	Betacoronavirus 1
+17844	ON376725	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON376725	Coronaviridae	GenBank	Betacoronavirus 1
+17845	MW855473	0	20240206	Coronaviridae	0.0		MW855473	Coronaviridae	GenBank	Rodent coronavirus
+17846	ON093194	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON093194	Coronaviridae	GenBank	Betacoronavirus 1
+17847	MW816149	0	20240206	Coronaviridae	0.0	Deltacoronavirus	MW816149	Coronaviridae	GenBank	Coronavirus HKU15
+17848	ON791801	1	20240206	Coronaviridae	1.0	Alphacoronavirus	ON791801	Coronaviridae	GenBank	Human coronavirus 229E
+17849	ON325307	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON325307	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17850	ON325309	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON325309	Coronaviridae	GenBank	Bat alphacoronavirus
+17851	OM777140	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OM777140	Coronaviridae	GenBank	Coronavirus HKU15
+17852	MW847253	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MW847253	Coronaviridae	GenBank	Avian coronavirus
+17853	OL311150	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OL311150	Coronaviridae	GenBank	Deltacoronavirus sp.
+17854	OL311151	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OL311151	Coronaviridae	GenBank	Deltacoronavirus sp.
+17855	OL311152	0	20240206	Coronaviridae	0.0	Deltacoronavirus	OL311152	Coronaviridae	GenBank	Deltacoronavirus sp.
+17856	MN200481	0	20240206	Coronaviridae	0.0	Deltacoronavirus	MN200481	Coronaviridae	GenBank	Coronavirus HKU15
+17857	ON128609	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128609	Coronaviridae	GenBank	Human coronavirus HKU1
+17858	ON128610	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128610	Coronaviridae	GenBank	Human coronavirus HKU1
+17859	ON128611	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128611	Coronaviridae	GenBank	Human coronavirus HKU1
+17860	ON128612	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128612	Coronaviridae	GenBank	Human coronavirus HKU1
+17861	ON128613	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128613	Coronaviridae	GenBank	Human coronavirus HKU1
+17862	ON128614	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128614	Coronaviridae	GenBank	Human coronavirus HKU1
+17863	ON128615	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128615	Coronaviridae	GenBank	Human coronavirus HKU1
+17864	ON128616	1	20240206	Coronaviridae	1.0	Betacoronavirus	ON128616	Coronaviridae	GenBank	Human coronavirus HKU1
+17865	ON378802	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON378802	Coronaviridae	GenBank	Severe acute respiratory syndrome-related coronavirus
+17866	ON378803	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON378803	Coronaviridae	GenBank	Alphacoronavirus sp.
+17867	ON378804	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON378804	Coronaviridae	GenBank	Alphacoronavirus sp.
+17868	ON378805	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON378805	Coronaviridae	GenBank	Alphacoronavirus sp.
+17869	ON378806	0	20240206	Coronaviridae	0.0	Alphacoronavirus	ON378806	Coronaviridae	GenBank	Alphacoronavirus sp.
+17870	ON378807	0	20240206	Coronaviridae	0.0	Betacoronavirus	ON378807	Coronaviridae	GenBank	Middle East respiratory syndrome-related coronavirus
+17871	MW411432	1	20240206	Coronaviridae	1.0	Betacoronavirus	MW411432	Coronaviridae	GenBank	Betacoronavirus 1
+17872	ON350836	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON350836	Coronaviridae	GenBank	Avian coronavirus
+17873	ON350837	0	20240206	Coronaviridae	0.0	Gammacoronavirus	ON350837	Coronaviridae	GenBank	Avian coronavirus
+17874	OM950728	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM950728	Coronaviridae	GenBank	Alphacoronavirus 1
+17875	MW356787	0	20240206	Coronaviridae	0.0		MW356787	Coronaviridae	GenBank	raccoon dog coronavirus
+17876	OL411879	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL411879	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17877	OK662397	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK662397	Coronaviridae	GenBank	Betacoronavirus 1
+17878	OK662398	1	20240206	Coronaviridae	1.0	Alphacoronavirus	OK662398	Coronaviridae	GenBank	Human coronavirus 229E
+17879	OL542832	0	20240206	Coronaviridae	0.0	Betacoronavirus	OL542832	Coronaviridae	GenBank	Betacoronavirus 1
+17880	OM802899	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM802899	Coronaviridae	GenBank	Alphacoronavirus 1
+17881	OM814174	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM814174	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17882	MW815494	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MW815494	Coronaviridae	GenBank	Avian coronavirus
+17883	MW815495	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MW815495	Coronaviridae	GenBank	Avian coronavirus
+17884	OK391221	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391221	Coronaviridae	GenBank	Betacoronavirus 1
+17885	OK391222	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391222	Coronaviridae	GenBank	Betacoronavirus 1
+17886	OK391223	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391223	Coronaviridae	GenBank	Betacoronavirus 1
+17887	OK391224	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391224	Coronaviridae	GenBank	Betacoronavirus 1
+17888	OK391225	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391225	Coronaviridae	GenBank	Betacoronavirus 1
+17889	OK391226	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391226	Coronaviridae	GenBank	Betacoronavirus 1
+17890	OK391227	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391227	Coronaviridae	GenBank	Betacoronavirus 1
+17891	OK391228	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391228	Coronaviridae	GenBank	Betacoronavirus 1
+17892	OK391230	1	20240206	Coronaviridae	1.0	Betacoronavirus	OK391230	Coronaviridae	GenBank	Betacoronavirus 1
+17893	OM937885	0	20240206	Coronaviridae	0.0	Betacoronavirus	OM937885	Coronaviridae	GenBank	Betacoronavirus 1
+17894	OM912676	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912676	Coronaviridae	GenBank	Avian coronavirus
+17895	OM912677	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912677	Coronaviridae	GenBank	Avian coronavirus
+17896	OM912678	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912678	Coronaviridae	GenBank	Avian coronavirus
+17897	OM912679	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912679	Coronaviridae	GenBank	Avian coronavirus
+17898	OM912680	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912680	Coronaviridae	GenBank	Avian coronavirus
+17899	OM912681	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912681	Coronaviridae	GenBank	Avian coronavirus
+17900	OM912682	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912682	Coronaviridae	GenBank	Avian coronavirus
+17901	OM912683	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912683	Coronaviridae	GenBank	Avian coronavirus
+17902	OM912684	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912684	Coronaviridae	GenBank	Avian coronavirus
+17903	OM912685	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912685	Coronaviridae	GenBank	Avian coronavirus
+17904	OM912686	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912686	Coronaviridae	GenBank	Avian coronavirus
+17905	OM912687	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912687	Coronaviridae	GenBank	Avian coronavirus
+17906	OM912688	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912688	Coronaviridae	GenBank	Avian coronavirus
+17907	OM912689	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912689	Coronaviridae	GenBank	Avian coronavirus
+17908	OM912690	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912690	Coronaviridae	GenBank	Avian coronavirus
+17909	OM912691	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912691	Coronaviridae	GenBank	Avian coronavirus
+17910	OM912692	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912692	Coronaviridae	GenBank	Avian coronavirus
+17911	OM912693	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912693	Coronaviridae	GenBank	Avian coronavirus
+17912	OM912694	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912694	Coronaviridae	GenBank	Avian coronavirus
+17913	OM912695	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912695	Coronaviridae	GenBank	Avian coronavirus
+17914	OM912696	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912696	Coronaviridae	GenBank	Avian coronavirus
+17915	OM912697	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912697	Coronaviridae	GenBank	Avian coronavirus
+17916	OM912698	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912698	Coronaviridae	GenBank	Avian coronavirus
+17917	OM912699	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912699	Coronaviridae	GenBank	Avian coronavirus
+17918	OM912700	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912700	Coronaviridae	GenBank	Avian coronavirus
+17919	OM912701	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912701	Coronaviridae	GenBank	Avian coronavirus
+17920	OM912702	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912702	Coronaviridae	GenBank	Avian coronavirus
+17921	OM912703	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912703	Coronaviridae	GenBank	Avian coronavirus
+17922	OM912704	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912704	Coronaviridae	GenBank	Avian coronavirus
+17923	OM912705	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912705	Coronaviridae	GenBank	Avian coronavirus
+17924	OM912706	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912706	Coronaviridae	GenBank	Avian coronavirus
+17925	OM912707	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912707	Coronaviridae	GenBank	Avian coronavirus
+17926	OM912708	0	20240206	Coronaviridae	0.0	Gammacoronavirus	OM912708	Coronaviridae	GenBank	Avian coronavirus
+17927	OM393722	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OM393722	Coronaviridae	GenBank	Porcine epidemic diarrhea virus
+17928	MZ368698	0	20240206	Coronaviridae	0.0	Gammacoronavirus	MZ368698	Coronaviridae	GenBank	Avian coronavirus
+17929	OL410607	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL410607	Coronaviridae	GenBank	Eptesicus bat coronavirus
+17930	OL410609	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL410609	Coronaviridae	GenBank	Eptesicus bat coronavirus
+17931	OL415262	0	20240206	Coronaviridae	0.0	Alphacoronavirus	OL415262	Coronaviridae	GenBank	Eptesicus bat coronavirus
+17932	MW681002	0	20240206	Coronaviridae	0.0	Betacoronavirus	MW681002	Coronaviridae	GenBank	Severe acute respiratory syndrome-related coronavirus
+17933	MW896952	0	20240206	Coronaviridae	0.0		MW896952	Coronaviridae	GenBank	Yunnan coronavirus 3
+29844	KY417142.1	0	20240206	Coronaviridae						
+29845	JX993988.1	0	20240206	Coronaviridae						
+29846	KU973692.1	0	20240206	Coronaviridae						
+29847	DQ071615.1	0	20240206	Coronaviridae						
+29848	GU553365.1	0	20240206	Coronaviridae						
+29849	OP288969.1	0	20240206	Coronaviridae						
+29850	MT121216.1	0	20240206	Coronaviridae						
+29851	MT040333.1	0	20240206	Coronaviridae						
+29852	MT040334.1	0	20240206	Coronaviridae						
+29853	MT040335.1	0	20240206	Coronaviridae						
+29854	MT040336.1	0	20240206	Coronaviridae						
+29855	MT308984.1	0	20240206	Coronaviridae						
+29856	HQ890526.1	0	20240206	Coronaviridae						
+29857	HQ890527.1	0	20240206	Coronaviridae						
+29858	HQ890528.1	0	20240206	Coronaviridae						
+29859	HQ890529.1	0	20240206	Coronaviridae						
+29860	HQ890530.1	0	20240206	Coronaviridae						
+29861	HQ890531.1	0	20240206	Coronaviridae						
+29862	HQ890532.1	0	20240206	Coronaviridae						
+29863	HQ890533.1	0	20240206	Coronaviridae						
+29864	HQ890534.1	0	20240206	Coronaviridae						
+29865	HQ890535.1	0	20240206	Coronaviridae						
+29866	HQ890536.1	0	20240206	Coronaviridae						
+29867	HQ890537.1	0	20240206	Coronaviridae						
+29868	HQ890538.1	0	20240206	Coronaviridae						
+29869	HQ890539.1	0	20240206	Coronaviridae						
+29870	HQ890540.1	0	20240206	Coronaviridae						
+29871	HQ890541.1	0	20240206	Coronaviridae						
+29872	HQ890542.1	0	20240206	Coronaviridae						
+29873	HQ890543.1	0	20240206	Coronaviridae						
+29874	HQ890544.1	0	20240206	Coronaviridae						
+29875	HQ890545.1	0	20240206	Coronaviridae						
+29876	HQ890546.1	0	20240206	Coronaviridae						
+29877	JF292902.1	0	20240206	Coronaviridae						
+29878	JF292903.1	0	20240206	Coronaviridae						
+29879	JF292904.1	0	20240206	Coronaviridae						
+29880	JF292905.1	0	20240206	Coronaviridae						
+29881	JF292906.1	0	20240206	Coronaviridae						
+29882	JF292907.1	0	20240206	Coronaviridae						
+29883	JF292908.1	0	20240206	Coronaviridae						
+29884	JF292909.1	0	20240206	Coronaviridae						
+29885	JF292910.1	0	20240206	Coronaviridae						
+29886	JF292911.1	0	20240206	Coronaviridae						
+29887	JF292912.1	0	20240206	Coronaviridae						
+29888	JF292913.1	0	20240206	Coronaviridae						
+29889	JF292914.1	0	20240206	Coronaviridae						
+29890	JF292915.1	0	20240206	Coronaviridae						
+29891	JF292916.1	0	20240206	Coronaviridae						
+29892	JF292917.1	0	20240206	Coronaviridae						
+29893	JF292918.1	0	20240206	Coronaviridae						
+29894	JF292919.1	0	20240206	Coronaviridae						
+29895	JF292920.1	0	20240206	Coronaviridae						
+29896	AY515512.1	0	20240206	Coronaviridae						
+29897	FJ959407.1	0	20240206	Coronaviridae						
+29898	AY686863.1	0	20240206	Coronaviridae						
+29899	AY686864.1	0	20240206	Coronaviridae						
+29900	AY613948.1	0	20240206	Coronaviridae						
+29901	AY613949.1	0	20240206	Coronaviridae						
+29902	AY613950.1	0	20240206	Coronaviridae						
+29903	MT072864.1	0	20240206	Coronaviridae						
+29904	OK017801.1	0	20240206	Coronaviridae						
+29905	OK017802.1	0	20240206	Coronaviridae						
+29906	MT726043.1	0	20240206	Coronaviridae						
+29907	MT726045.1	0	20240206	Coronaviridae						
+29908	MK211374.1	0	20240206	Coronaviridae						
+29909	KY352407.1	0	20240206	Coronaviridae						
+29910	MW251308.1	0	20240206	Coronaviridae						
+29911	OR233291.1	0	20240206	Coronaviridae						
+29912	OR233292.1	0	20240206	Coronaviridae						
+29913	OR233304.1	0	20240206	Coronaviridae						
+29914	OR233322.1	0	20240206	Coronaviridae						
+29915	OR233323.1	0	20240206	Coronaviridae						
+29916	OR233324.1	0	20240206	Coronaviridae						
+29917	OR233325.1	0	20240206	Coronaviridae						
+29918	OR233328.1	0	20240206	Coronaviridae						
+29919	OL674077.1	0	20240206	Coronaviridae						
+29920	OK017792.1	0	20240206	Coronaviridae						
+29921	OK017793.1	0	20240206	Coronaviridae						
+29922	MN996532.2	0	20240206	Coronaviridae						
+29923	MK211375.1	0	20240206	Coronaviridae						
+29924	MK211376.1	0	20240206	Coronaviridae						
+29925	MK211377.1	0	20240206	Coronaviridae						
+29926	MK211378.1	0	20240206	Coronaviridae						
+29927	KF569996.1	0	20240206	Coronaviridae						
+29928	NC_014470.1	0	20240206	Coronaviridae						
+29929	GU190215.1	0	20240206	Coronaviridae						
+29930	OK287355.1	0	20240206	Coronaviridae						
+29931	MW703458.1	0	20240206	Coronaviridae						
+29932	LC663793.1	0	20240206	Coronaviridae						
+29933	LC556375.1	0	20240206	Coronaviridae						
+29934	OQ401247.1	0	20240206	Coronaviridae						
+29935	OQ401249.1	0	20240206	Coronaviridae						
+29936	ON378802.1	0	20240206	Coronaviridae						
+29937	OK017794.1	0	20240206	Coronaviridae						
+29938	OK017795.1	0	20240206	Coronaviridae						
+29939	OK017796.1	0	20240206	Coronaviridae						
+29940	OK017797.1	0	20240206	Coronaviridae						
+29941	OK017798.1	0	20240206	Coronaviridae						
+29942	OK017799.1	0	20240206	Coronaviridae						
+29943	OK017800.1	0	20240206	Coronaviridae						
+29944	MZ190137.1	0	20240206	Coronaviridae						
+29945	KY417145.1	0	20240206	Coronaviridae						
+29946	KY938558.1	0	20240206	Coronaviridae						
+29947	KY770860.1	0	20240206	Coronaviridae						
+29948	KU182964.1	0	20240206	Coronaviridae						
+29949	KJ473811.1	0	20240206	Coronaviridae						
+29950	KJ473812.1	0	20240206	Coronaviridae						
+29951	KJ473813.1	0	20240206	Coronaviridae						
+29952	KP886808.1	0	20240206	Coronaviridae						
+29953	KP886809.1	0	20240206	Coronaviridae						
+29954	DQ412042.1	0	20240206	Coronaviridae						
+29955	OQ401248.1	0	20240206	Coronaviridae						
+29956	OP776338.1	0	20240206	Coronaviridae						
+29957	OP776339.1	0	20240206	Coronaviridae						
+29958	OP776340.1	0	20240206	Coronaviridae						
+29959	MW719567.1	0	20240206	Coronaviridae						
+29960	MZ190138.1	0	20240206	Coronaviridae						
+29961	DQ412043.1	0	20240206	Coronaviridae						
+29962	MZ081376.1	0	20240206	Coronaviridae						
+29963	MZ081377.1	0	20240206	Coronaviridae						
+29964	MZ081378.1	0	20240206	Coronaviridae						
+29965	OR233302.1	0	20240206	Coronaviridae						
+29966	OK017803.1	0	20240206	Coronaviridae						
+29967	OK017804.1	0	20240206	Coronaviridae						
+29968	OK017805.1	0	20240206	Coronaviridae						
+29969	OK017806.1	0	20240206	Coronaviridae						
+29970	MZ081381.1	0	20240206	Coronaviridae						
+29971	MG772933.1	0	20240206	Coronaviridae						
+29972	MG772934.1	0	20240206	Coronaviridae						
+29973	JX993987.1	0	20240206	Coronaviridae						
+29974	OR261265.1	0	20240206	Coronaviridae						
+29975	OK017859.1	0	20240206	Coronaviridae						
+29976	OK017860.1	0	20240206	Coronaviridae						
+29977	OQ503495.1	0	20240206	Coronaviridae						
+29978	OQ503496.1	0	20240206	Coronaviridae						
+29979	OQ503497.1	0	20240206	Coronaviridae						
+29980	OQ503498.1	0	20240206	Coronaviridae						
+29981	OQ503499.1	0	20240206	Coronaviridae						
+29982	OQ503500.1	0	20240206	Coronaviridae						
+29983	OQ503501.1	0	20240206	Coronaviridae						
+29984	OQ503502.1	0	20240206	Coronaviridae						
+29985	OQ503503.1	0	20240206	Coronaviridae						
+29986	OQ503504.1	0	20240206	Coronaviridae						
+29987	OQ503505.1	0	20240206	Coronaviridae						
+29988	OK287354.1	0	20240206	Coronaviridae						
+29989	MW681002.1	0	20240206	Coronaviridae						
+29990	OK017807.1	0	20240206	Coronaviridae						
+29991	OK017808.1	0	20240206	Coronaviridae						
+29992	OK017809.1	0	20240206	Coronaviridae						
+29993	OK017810.1	0	20240206	Coronaviridae						
+29994	OK017811.1	0	20240206	Coronaviridae						
+29995	OK017812.1	0	20240206	Coronaviridae						
+29996	OK017813.1	0	20240206	Coronaviridae						
+29997	OK017814.1	0	20240206	Coronaviridae						
+29998	OK017815.1	0	20240206	Coronaviridae						
+29999	OK017816.1	0	20240206	Coronaviridae						
+30000	OK017817.1	0	20240206	Coronaviridae						
+30001	OK017818.1	0	20240206	Coronaviridae						
+30002	OK017819.1	0	20240206	Coronaviridae						
+30003	OK017820.1	0	20240206	Coronaviridae						
+30004	OK017821.1	0	20240206	Coronaviridae						
+30005	OK017822.1	0	20240206	Coronaviridae						
+30006	OK017823.1	0	20240206	Coronaviridae						
+30007	OK017824.1	0	20240206	Coronaviridae						
+30008	OK017825.1	0	20240206	Coronaviridae						
+30009	OK017826.1	0	20240206	Coronaviridae						
+30010	OK017827.1	0	20240206	Coronaviridae						
+30011	OK017828.1	0	20240206	Coronaviridae						
+30012	OK017829.1	0	20240206	Coronaviridae						
+30013	OK017830.1	0	20240206	Coronaviridae						
+30014	OK017831.1	0	20240206	Coronaviridae						
+30015	OK017832.1	0	20240206	Coronaviridae						
+30016	OK017833.1	0	20240206	Coronaviridae						
+30017	OK017834.1	0	20240206	Coronaviridae						
+30018	OK017835.1	0	20240206	Coronaviridae						
+30019	OK017836.1	0	20240206	Coronaviridae						
+30020	OK017837.1	0	20240206	Coronaviridae						
+30021	OK017838.1	0	20240206	Coronaviridae						
+30022	OK017839.1	0	20240206	Coronaviridae						
+30023	OK017840.1	0	20240206	Coronaviridae						
+30024	OK017841.1	0	20240206	Coronaviridae						
+30025	OK017842.1	0	20240206	Coronaviridae						
+30026	OK017843.1	0	20240206	Coronaviridae						
+30027	OK017844.1	0	20240206	Coronaviridae						
+30028	OK017845.1	0	20240206	Coronaviridae						
+30029	OK017846.1	0	20240206	Coronaviridae						
+30030	OK017847.1	0	20240206	Coronaviridae						
+30031	OK017848.1	0	20240206	Coronaviridae						
+30032	OK017849.1	0	20240206	Coronaviridae						
+30033	OK017850.1	0	20240206	Coronaviridae						
+30034	OK017851.1	0	20240206	Coronaviridae						
+30035	OK017852.1	0	20240206	Coronaviridae						
+30036	OK017853.1	0	20240206	Coronaviridae						
+30037	OK017854.1	0	20240206	Coronaviridae						
+30038	OK017855.1	0	20240206	Coronaviridae						
+30039	OK017856.1	0	20240206	Coronaviridae						
+30040	OK017857.1	0	20240206	Coronaviridae						
+30041	OK017858.1	0	20240206	Coronaviridae						
+30042	MZ081379.1	0	20240206	Coronaviridae						
+30043	KY417143.1	0	20240206	Coronaviridae						
+30044	KY417144.1	0	20240206	Coronaviridae						
+30045	KY417146.1	0	20240206	Coronaviridae						
+30046	KY417147.1	0	20240206	Coronaviridae						
+30047	KY417148.1	0	20240206	Coronaviridae						
+30048	KY417149.1	0	20240206	Coronaviridae						
+30049	KY417150.1	0	20240206	Coronaviridae						
+30050	KY417151.1	0	20240206	Coronaviridae						
+30051	KY417152.1	0	20240206	Coronaviridae						
+30052	KY770858.1	0	20240206	Coronaviridae						
+30053	KY770859.1	0	20240206	Coronaviridae						
+30054	KT444582.1	0	20240206	Coronaviridae						
+30055	KJ473814.1	0	20240206	Coronaviridae						
+30056	KJ473815.1	0	20240206	Coronaviridae						
+30057	KJ473816.1	0	20240206	Coronaviridae						
+30058	KC881005.1	0	20240206	Coronaviridae						
+30059	KC881006.1	0	20240206	Coronaviridae						
+30060	KF367457.1	0	20240206	Coronaviridae						
+30061	FJ588686.1	0	20240206	Coronaviridae						
+30062	OL674074.1	0	20240206	Coronaviridae						
+30063	OL674075.1	0	20240206	Coronaviridae						
+30064	OL674076.1	0	20240206	Coronaviridae						
+30065	OL674078.1	0	20240206	Coronaviridae						
+30066	OL674079.1	0	20240206	Coronaviridae						
+30067	OL674080.1	0	20240206	Coronaviridae						
+30068	OL674081.1	0	20240206	Coronaviridae						
+30069	MZ081380.1	0	20240206	Coronaviridae						
+30070	MZ081382.1	0	20240206	Coronaviridae						
+30071	OR233293.1	0	20240206	Coronaviridae						
+30072	OR233294.1	0	20240206	Coronaviridae						
+30073	OR233295.1	0	20240206	Coronaviridae						
+30074	OR233296.1	0	20240206	Coronaviridae						
+30075	OR233297.1	0	20240206	Coronaviridae						
+30076	OR233298.1	0	20240206	Coronaviridae						
+30077	OR233299.1	0	20240206	Coronaviridae						
+30078	OR233300.1	0	20240206	Coronaviridae						
+30079	OR233301.1	0	20240206	Coronaviridae						
+30080	OR233303.1	0	20240206	Coronaviridae						
+30081	OR233305.1	0	20240206	Coronaviridae						
+30082	OR233308.1	0	20240206	Coronaviridae						
+30083	OR233310.1	0	20240206	Coronaviridae						
+30084	OR233311.1	0	20240206	Coronaviridae						
+30085	OR233312.1	0	20240206	Coronaviridae						
+30086	OR233313.1	0	20240206	Coronaviridae						
+30087	OR233314.1	0	20240206	Coronaviridae						
+30088	OR233316.1	0	20240206	Coronaviridae						
+30089	OR233317.1	0	20240206	Coronaviridae						
+30090	OR233318.1	0	20240206	Coronaviridae						
+30091	OR233319.1	0	20240206	Coronaviridae						
+30092	OR233320.1	0	20240206	Coronaviridae						
+30093	OR233321.1	0	20240206	Coronaviridae						
+30094	OQ503506.1	0	20240206	Coronaviridae						
+30095	AY572034.1	0	20240206	Coronaviridae						
+30096	AY572035.1	0	20240206	Coronaviridae						
+30097	AY572038.1	0	20240206	Coronaviridae						
+30098	MN908947.3	1	20240206	Coronaviridae						
+30099	MT050493.1	1	20240206	Coronaviridae						
+30100	MT635444.1	1	20240206	Coronaviridae						
+30101	MW030241.1	1	20240206	Coronaviridae						
+30102	MW273805.1	1	20240206	Coronaviridae						
+30103	MW294011.1	1	20240206	Coronaviridae						
+30104	MW356785.1	1	20240206	Coronaviridae						
+30105	MW596415.1	1	20240206	Coronaviridae						
+30106	MW643223.1	1	20240206	Coronaviridae						
+30107	HG994235.1	1	20240206	Coronaviridae						
+30108	MW816472.1	1	20240206	Coronaviridae						
+30109	MW975592.1	1	20240206	Coronaviridae						
+30110	MW976746.1	1	20240206	Coronaviridae						
+30111	MZ054862.1	1	20240206	Coronaviridae						
+30112	MZ410620.1	1	20240206	Coronaviridae						
+30113	MZ611966.1	1	20240206	Coronaviridae						
+30114	MZ862968.1	1	20240206	Coronaviridae						
+30115	OK252994.1	1	20240206	Coronaviridae						
+30116	OK354417.1	1	20240206	Coronaviridae						
+30117	OK426405.1	1	20240206	Coronaviridae						
+30118	OU818621.1	1	20240206	Coronaviridae						
+30119	OK668279.1	1	20240206	Coronaviridae						
+30120	OL549280.1	1	20240206	Coronaviridae						
+30121	OL601954.1	1	20240206	Coronaviridae						
+30122	OL875826.1	1	20240206	Coronaviridae						
+30123	OM739392.1	1	20240206	Coronaviridae						
+30124	OM765403.1	1	20240206	Coronaviridae						
+30125	OM811375.1	1	20240206	Coronaviridae						
+30126	OW481143.1	1	20240206	Coronaviridae						
+30127	ON583401.1	1	20240206	Coronaviridae						
+30128	ON797362.1	1	20240206	Coronaviridae						
+30129	OP053572.1	1	20240206	Coronaviridae						
+30130	OP089057.1	1	20240206	Coronaviridae						
+30131	OP126300.1	1	20240206	Coronaviridae						
+30132	OP302812.1	1	20240206	Coronaviridae						
+30133	OP303169.1	1	20240206	Coronaviridae						
+30134	OP303170.1	1	20240206	Coronaviridae						
+30135	OP430919.1	1	20240206	Coronaviridae						
+30136	OX318448.1	1	20240206	Coronaviridae						
+30137	OP581529.1	1	20240206	Coronaviridae						
+30138	OP678014.1	1	20240206	Coronaviridae						
+30139	OP748661.1	1	20240206	Coronaviridae						
+30140	OP776812.1	1	20240206	Coronaviridae						
+30141	OP882695.1	1	20240206	Coronaviridae						
+30142	OQ120177.1	1	20240206	Coronaviridae						
+30143	OQ318691.1	1	20240206	Coronaviridae						
+30144	OQ564944.1	1	20240206	Coronaviridae						
+30145	OQ587531.1	1	20240206	Coronaviridae						
+30146	OQ587537.1	1	20240206	Coronaviridae						
+30147	OQ618764.1	1	20240206	Coronaviridae						
+30148	OQ690525.1	1	20240206	Coronaviridae						
+30149	OQ691430.1	1	20240206	Coronaviridae						
+30150	OQ691560.1	1	20240206	Coronaviridae						
+30151	OQ701291.1	1	20240206	Coronaviridae						
+30152	OQ847651.1	1	20240206	Coronaviridae						
+30153	OQ921116.1	1	20240206	Coronaviridae						
+30154	OQ921514.1	1	20240206	Coronaviridae						
+30155	OQ946921.1	1	20240206	Coronaviridae						
+30156	OQ946931.1	1	20240206	Coronaviridae						
+30157	OQ977047.1	1	20240206	Coronaviridae						
+30158	OQ977777.1	1	20240206	Coronaviridae						
+30159	OR098915.1	1	20240206	Coronaviridae						
+30160	OR098921.1	1	20240206	Coronaviridae						
+30161	OR098924.1	1	20240206	Coronaviridae						
+30162	OR122618.1	1	20240206	Coronaviridae						
+30163	OR122627.1	1	20240206	Coronaviridae						
+30164	BS007339.1	1	20240206	Coronaviridae						
+30165	BS007341.1	1	20240206	Coronaviridae						
+30166	BS007342.1	1	20240206	Coronaviridae						
+30167	OR145069.1	1	20240206	Coronaviridae						
+30168	OR177937.1	1	20240206	Coronaviridae						
+30169	OR196300.1	1	20240206	Coronaviridae						
+30170	OY468386.1	1	20240206	Coronaviridae						
+30171	OY475267.1	1	20240206	Coronaviridae						
+30172	BS007388.1	1	20240206	Coronaviridae						
+30173	OR415190.1	1	20240206	Coronaviridae						
+30174	OR462807.1	1	20240206	Coronaviridae						
+30175	OY726593.1	1	20240206	Coronaviridae						
+30176	OY726596.1	1	20240206	Coronaviridae						
+30177	BS007463.1	1	20240206	Coronaviridae						
+30178	OY731253.1	1	20240206	Coronaviridae						
+30179	OR559085.1	1	20240206	Coronaviridae						
+30180	OR565116.1	1	20240206	Coronaviridae						
+30181	OR577043.1	1	20240206	Coronaviridae						
+30182	OR577095.1	1	20240206	Coronaviridae						
+30183	OY735741.1	1	20240206	Coronaviridae						
+30184	OR600070.1	1	20240206	Coronaviridae						
+30185	OY736948.1	1	20240206	Coronaviridae						
+30186	OY738377.1	1	20240206	Coronaviridae						
+30187	OR603730.1	1	20240206	Coronaviridae						
+30188	OY739714.1	1	20240206	Coronaviridae						
+30189	BS007584.1	1	20240206	Coronaviridae						
+30190	OY742622.1	1	20240206	Coronaviridae						
+30191	OY742935.1	1	20240206	Coronaviridae						
+30192	BS007678.1	1	20240206	Coronaviridae						
