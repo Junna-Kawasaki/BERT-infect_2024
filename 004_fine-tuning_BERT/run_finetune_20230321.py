@@ -19,14 +19,12 @@ import os
 import sys
 
 ## vibe
-sys.path.append(os.path.join(os.path.dirname(__file__), '../configs'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '../model_vibe'))
-sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
+#sys.path.append(os.path.join(os.path.dirname(__file__), '../configs'))
+#sys.path.append(os.path.join(os.path.dirname(__file__), '../model_vibe'))
+#sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
 
 ### dnabert
-#sys.path.append(os.path.join(os.path.dirname(__file__), '../attention_analysis'))
-#sys.path.append(os.path.join(os.path.dirname(__file__), '../motif'))
-#sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
+sys.path.append(os.path.join(os.path.dirname(__file__), '../src'))
 
 from sklearn.utils.class_weight import compute_class_weight
 

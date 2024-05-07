@@ -9,7 +9,7 @@ We constructed new predictive models for viral infectivity, namely BERT-infect, 
 - **ViBE_fintuning.sh**: provides an example script for fine-tuning the ViBE model.  
 
 - **run_finetune_20230321.py** is a modified version of published script in the following respects:
-    - To address class imbalance, we modified the loss function to a weighted binary cross-entropy
+    - To address class imbalance, we modified the loss function to a weighted binary cross-entropy. Please replace “DNABERT/examples/run_finetune.py” with this script.
 
 ## Environment setup
 Please check the DNABERT git-hub repository (https://github.com/jerryji1993/DNABERT) and ViBE git-hub repository (https://github.com/DMnBI/ViBE).
