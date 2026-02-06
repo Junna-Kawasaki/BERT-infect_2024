@@ -2,7 +2,7 @@
 - There are codes used in **"Hidden Challenges in Risk Assessment of Zoonotic Viruses by Machine Learning Models"**.  
 - DOI: https://doi.org/10.1101/2024.04.25.591033  
 
-**Notice:** The dataset has been updated to correct minor data leakage identified after the initial release.  
+**⚠️ Notice:** The dataset has been updated to correct minor data leakage identified after the initial release.  
 Please use `000_curated_dataset` for all analyses. 
 
 ## Table of Contents  
