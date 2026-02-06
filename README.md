@@ -32,8 +32,7 @@ The details were described in the section of our paper: *"Phylogenetic analyses"
 ## Data availability  
 The relevant data are available at the Zenodo repository.  
 
-1. Comprehensive datasets for 26 viral families (doi: 10.5281/zenodo.11102793)
-2. BERT-infect models for non-segmented DNA viruses (doi: 10.5281/zenodo.11103056)
-3. BERT-infect models for non-segmented RNA viruses (doi: 10.5281/zenodo.11103079)
-4. BERT-infect models for segmented RNA viruses (doi: 10.5281/zenodo.11103091)
+1. BERT-infect models for non-segmented DNA viruses (doi: 10.5281/zenodo.11103056)
+2. BERT-infect models for non-segmented RNA viruses (doi: 10.5281/zenodo.11103079)
+3. BERT-infect models for segmented RNA viruses (doi: 10.5281/zenodo.11103091)
 
